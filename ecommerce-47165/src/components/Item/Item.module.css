@@ -1,0 +1,21 @@
+.titleContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+  gap: 10px;
+}
+
+.title {
+  color: #fff;
+  font-size: 0.975rem;
+  font-family: "Roboto", sans-serif;
+}
+
+.btnStyle {
+  color: #fff;
+  background-color: #161414;
+  cursor: pointer;
+  border-radius: 50px;
+  padding: 10px;
+}

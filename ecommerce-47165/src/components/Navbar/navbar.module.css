@@ -1,0 +1,33 @@
+.navbarContainer {
+  height: 70px;
+  font-size: 3rem;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  padding-inline: 50px;
+  align-items: center;
+  border-bottom: #fff solid 1px;
+}
+
+.nameEcommerce {
+  font-family: "Dancing Script", cursive;
+}
+
+.navbarButton {
+  font-size: 2.5rem;
+  font-family: "Roboto", sans-serif;
+  margin-inline: 15px;
+  text-decoration: none;
+  color: #fff;
+  padding: 0 10px 0 10px;
+  border: #ffffff83 1px solid;
+  border-bottom: none;
+  border-top: none;
+}
+
+.navbarButton:hover {
+  cursor: pointer;
+  transition: all 0.5s;
+  color: #161414;
+  background-color: #fff;
+}

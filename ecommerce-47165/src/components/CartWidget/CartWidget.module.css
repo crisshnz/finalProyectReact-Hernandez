@@ -1,0 +1,12 @@
+.shoppingCart {
+  cursor: pointer;
+  background-color: #161414;
+  color: white;
+  outline: none;
+}
+
+.shoppingCart:hover {
+  color: #161414;
+  border: black 5px solid;
+  background-color: white;
+}
